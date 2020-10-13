@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>master1__c</fullName>
+    <externalId>false</externalId>
+    <label>master1</label>
+    <referenceTo>master1__c</referenceTo>
+    <relationshipLabel>junobj</relationshipLabel>
+    <relationshipName>junobj</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
